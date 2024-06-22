@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bonaventure129
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... c++
+- 👋 Hi, I’m @Ugbah Awele Bonaventure129
+- 👀 I’m interested in ... Embedded systems
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on WhatsApp 09049819209
 
