@@ -1,4 +1,4 @@
-# Hi there, I'm Bonaventure Ugbah 👋
+# Hi there, I'm Awele Bonaventure Ugbah 👋
 
 ### Mechatronics Engineer | Robotics Developer | Embedded Systems & IoT Engineer | AI Enthusiast
 
